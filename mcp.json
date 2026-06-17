@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-sparql": {
+      "command": "mcp-sparql",
+      "env": {}
+    }
+  }
+}
