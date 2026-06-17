@@ -37,7 +37,6 @@ test = [
 ]
 lint = [
     "prospector[with_ruff,with_mypy]",
-    "opengrep",
     "vulture",
     "lizard",
     "mdformat",
